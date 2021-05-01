@@ -1,2 +1,2 @@
 # hello
-Belajar Github
+Belajar Github dan Git
